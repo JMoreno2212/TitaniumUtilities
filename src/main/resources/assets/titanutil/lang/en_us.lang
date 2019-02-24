@@ -1,0 +1,29 @@
+//Creative Tab
+itemGroup.titaniumUtilitiesTab=Titanium Utilities
+
+//Items
+item.titanium_ingot.name=Titanium Ingot
+item.titanium_nugget.name=Titanium Nugget
+item.titanium_sword.name=Titanium Sword
+item.titanium_shovel.name=Titanium Shovel
+item.titanium_pickaxe.name=Titanium Pickaxe
+item.titanium_axe.name=Titanium Axe
+item.titanium_hoe.name=Titanium Hoe
+
+//Blocks
+tile.titanium_ore.name=Titanium Ore
+tile.titanium_poor_ore.name=Poor Titanium Ore
+tile.titanium_block.name=Block of Titanium
+tile.titanium_furnace.name=Titanium Furnace
+
+//Containers
+container.titanium_furnace=Titanium Furnace
+
+//Armor
+item.titanium_helmet.name=Titanium Helmet
+item.titanium_chestplate.name=Titanium Chestplate
+item.titanium_leggings.name=Titanium Leggings
+item.titanium_boots.name=Titanium Boots
+
+//Entity
+entity.titanium_golem.name=Titanium Golem

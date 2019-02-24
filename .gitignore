@@ -1,0 +1,30 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+/build.gradle
+/CREDITS.txt
+/gradle.properties
+/gradlew
+/gradlew.bat
+/LICENSE-Paulscode IBXM Library.txt
+/LICENSE-Paulscode SoundSystem CodecIBXM.txt
+/LICENSE.txt

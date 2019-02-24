@@ -1,0 +1,17 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "titanutil:titanium_block"
+    }
+    ],
+
+    "result": 
+    {
+        "item": "titanutil:titanium_ingot",
+        "count": 9
+    }
+}
