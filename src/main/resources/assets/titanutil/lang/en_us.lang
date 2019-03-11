@@ -9,6 +9,7 @@ item.titanium_shovel.name=Titanium Shovel
 item.titanium_pickaxe.name=Titanium Pickaxe
 item.titanium_axe.name=Titanium Axe
 item.titanium_hoe.name=Titanium Hoe
+item.titanium_bow.name=Titanium Bow
 
 //Blocks
 tile.titanium_ore.name=Titanium Ore

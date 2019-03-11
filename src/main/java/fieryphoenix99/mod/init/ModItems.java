@@ -6,7 +6,6 @@ import java.util.List;
 import fieryphoenix99.mod.objects.items.ItemBase;
 import fieryphoenix99.mod.objects.items.armor.ArmorBase;
 import fieryphoenix99.mod.objects.items.tools.ToolAxe;
-import fieryphoenix99.mod.objects.items.tools.ToolBow;
 import fieryphoenix99.mod.objects.items.tools.ToolHoe;
 import fieryphoenix99.mod.objects.items.tools.ToolPickaxe;
 import fieryphoenix99.mod.objects.items.tools.ToolSpade;
@@ -18,7 +17,6 @@ import net.minecraft.item.Item;
 import net.minecraft.item.Item.ToolMaterial;
 import net.minecraft.item.ItemArmor.ArmorMaterial;
 import net.minecraft.item.ItemAxe;
-import net.minecraft.item.ItemBow;
 import net.minecraft.item.ItemHoe;
 import net.minecraft.item.ItemPickaxe;
 import net.minecraft.item.ItemSpade;
@@ -42,7 +40,7 @@ public class ModItems {
 	public static final ItemPickaxe TITANIUM_PICKAXE = new ToolPickaxe("titanium_pickaxe", TOOL_MATERIAL_TITANIUM);
 	public static final ItemAxe TITANIUM_AXE = new ToolAxe("titanium_axe", TOOL_MATERIAL_TITANIUM);
 	public static final ItemHoe TITANIUM_HOE = new ToolHoe("titanium_hoe", TOOL_MATERIAL_TITANIUM);
-	public static final ItemBow TITANIUM_BOW = new ToolBow("titanium_bow", TOOL_MATERIAL_TITANIUM);
+	//public static final ItemBow TITANIUM_BOW = new ToolBow("titanium_bow", TOOL_MATERIAL_TITANIUM);
 	
 	//Armor
 	public static final Item TITANIUM_HELMET = new ArmorBase("titanium_helmet", ARMOR_MATERIAL_TITANIUM, 1, EntityEquipmentSlot.HEAD);
