@@ -2,6 +2,11 @@
 	"item.titanutil.titanium_ingot": "Titanium Ingot",
 	"item.titanutil.titanium_nugget": "Titanium Nugget",
 	
+	"item.titanutil.titanium_helmet": "Titanium Helmet",
+	"item.titanutil.titanium_chestplate": "Titanium Chestplate",
+	"item.titanutil.titanium_leggings": "Titanium Leggings",
+	"item.titanutil.titanium_boots": "Titanium Boots",
+	
 	"block.titanutil.titanium_block": "Titanium Block",
 	"block.titanutil.titanium_ore": "Titanium Ore",
 	"block.titanutil.titanium_lump": "Titanium Lump",

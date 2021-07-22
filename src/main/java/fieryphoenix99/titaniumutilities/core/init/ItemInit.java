@@ -2,6 +2,9 @@ package fieryphoenix99.titaniumutilities.core.init;
 
 import fieryphoenix99.titaniumutilities.TitaniumUtilities;
 import fieryphoenix99.titaniumutilities.common.items.DenseBlockItem;
+import fieryphoenix99.titaniumutilities.core.enums.TitaniumArmorMaterial;
+import net.minecraft.inventory.EquipmentSlotType;
+import net.minecraft.item.ArmorItem;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.RegistryObject;
@@ -27,4 +30,22 @@ public class ItemInit {
 	
 	public static final RegistryObject<BlockItem> TITANIUM_BLOCK = ITEMS.register("titanium_block", 
 			() -> new BlockItem(BlockInit.TITANIUM_BLOCK.get(), new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));
+
+	// Armor
+	public static final RegistryObject<Item> TITANIUM_HELMET = ITEMS.register("titanium_helmet",
+			() -> new ArmorItem(TitaniumArmorMaterial.TITANIUM, EquipmentSlotType.HEAD,
+					new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));
+	
+	public static final RegistryObject<Item> TITANIUM_CHESTPLATE = ITEMS.register("titanium_chestplate",
+			() -> new ArmorItem(TitaniumArmorMaterial.TITANIUM, EquipmentSlotType.CHEST,
+					new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));
+	
+	public static final RegistryObject<Item> TITANIUM_LEGGINGS = ITEMS.register("titanium_leggings",
+			() -> new ArmorItem(TitaniumArmorMaterial.TITANIUM, EquipmentSlotType.LEGS,
+					new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));
+	
+	public static final RegistryObject<Item> TITANIUM_BOOTS = ITEMS.register("titanium_boots",
+			() -> new ArmorItem(TitaniumArmorMaterial.TITANIUM, EquipmentSlotType.FEET,
+					new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));
+
 }
