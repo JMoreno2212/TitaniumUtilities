@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "titanutil:block/titanium_block" }
+	}
+}

@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/JMoreno2212/TitaniumUtilities/issues"
+[[mods]]
+modId="titanutil"
+version="1.0"
+displayName="Titanium Utilities"
+displayURL="https://github.com/JMoreno2212/TitaniumUtilities"
+logoFile=""
+credits="Thanks to the UPRM Fall 2018 Advanced Programming Course for introducing me to the mod programming and YouTuber TurtyWurty for the amazing guide he published."
+authors="FieryPhoenix99"
+description='''
+A simple Mod that adds a new level of tools, weapons and armor that are stronger than diamonds. It also adds upgraded versions of several blocks and an enhanced Titanium Golem to save the day.
+'''

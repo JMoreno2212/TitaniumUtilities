@@ -1,0 +1,9 @@
+{
+	"item.titanutil.titanium_ingot": "Titanium Ingot",
+	"item.titanutil.titanium_nugget": "Titanium Nugget",
+	"block.titanutil.titanium_block": "Titanium Block",
+	"block.titanutil.titanium_ore": "Titanium Ore",
+	"block.titanutil.titanium_lump": "Titanium Lump",
+	"itemGroup.titaniumUtilitiesGroup": "Titanium Utilities"
+	
+}
