@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT",
+        "TTT",
+        "TTT"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "titanutil:titanium_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item": "titanutil:titanium_ingot",
+        "count": 1
+    }
+}

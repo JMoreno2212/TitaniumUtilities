@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "titanutil:titanium_lump"
+    },
+    "result": "titanutil:titanium_nugget",
+    "experience": 4,
+    "cookingtime": 200
+}
