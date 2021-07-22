@@ -4,6 +4,6 @@
         "item": "titanutil:titanium_lump"
     },
     "result": "titanutil:titanium_nugget",
-    "experience": 4,
-    "cookingtime": 200
+    "experience": 1.5,
+    "cookingtime": 400
 }
