@@ -1,9 +1,14 @@
 {
 	"item.titanutil.titanium_ingot": "Titanium Ingot",
 	"item.titanutil.titanium_nugget": "Titanium Nugget",
+	
 	"block.titanutil.titanium_block": "Titanium Block",
 	"block.titanutil.titanium_ore": "Titanium Ore",
 	"block.titanutil.titanium_lump": "Titanium Lump",
+	
+	"tooltip.dense_block_item.hold_shift": "Hold \u00A7eShift \u00A77for More Information",
+	"tooltip.dense_block_item.revealed": "This material is very dense. Fuel efficiency reduced by half",
+	
 	"itemGroup.titaniumUtilitiesGroup": "Titanium Utilities"
 	
 }

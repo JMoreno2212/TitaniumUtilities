@@ -1,6 +1,7 @@
 package fieryphoenix99.titaniumutilities.core.init;
 
 import fieryphoenix99.titaniumutilities.TitaniumUtilities;
+import fieryphoenix99.titaniumutilities.common.items.DenseBlockItem;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.RegistryObject;
@@ -19,10 +20,10 @@ public class ItemInit {
 
 	// Block - Items
 	public static final RegistryObject<BlockItem> TITANIUM_ORE = ITEMS.register("titanium_ore", 
-			() -> new BlockItem(BlockInit.TITANIUM_ORE.get(), new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));
+			() -> new DenseBlockItem(BlockInit.TITANIUM_ORE.get(), new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));
 	
 	public static final RegistryObject<BlockItem> TITANIUM_LUMP = ITEMS.register("titanium_lump", 
-			() -> new BlockItem(BlockInit.TITANIUM_LUMP.get(), new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));
+			() -> new DenseBlockItem(BlockInit.TITANIUM_LUMP.get(), new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));
 	
 	public static final RegistryObject<BlockItem> TITANIUM_BLOCK = ITEMS.register("titanium_block", 
 			() -> new BlockItem(BlockInit.TITANIUM_BLOCK.get(), new Item.Properties().tab(TitaniumUtilities.TITANIUM_UTILITIES_GROUP)));

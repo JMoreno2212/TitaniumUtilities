@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "titanutil:titanium_lump"
+    },
+    "result": "titanutil:titanium_nugget",
+    "experience": 1.5,
+    "cookingtime": 200
+}
