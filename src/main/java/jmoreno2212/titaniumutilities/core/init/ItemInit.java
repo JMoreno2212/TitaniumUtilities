@@ -1,9 +1,9 @@
-package fieryphoenix99.titaniumutilities.core.init;
+package jmoreno2212.titaniumutilities.core.init;
 
-import fieryphoenix99.titaniumutilities.TitaniumUtilities;
-import fieryphoenix99.titaniumutilities.common.items.DenseBlockItem;
-import fieryphoenix99.titaniumutilities.core.enums.TitaniumArmorMaterial;
-import fieryphoenix99.titaniumutilities.core.enums.TitaniumToolMaterial;
+import jmoreno2212.titaniumutilities.TitaniumUtilities;
+import jmoreno2212.titaniumutilities.common.items.DenseBlockItem;
+import jmoreno2212.titaniumutilities.core.enums.TitaniumArmorMaterial;
+import jmoreno2212.titaniumutilities.core.enums.TitaniumToolMaterial;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.ArmorItem;
 import net.minecraft.item.AxeItem;

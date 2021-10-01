@@ -1,4 +1,4 @@
-package fieryphoenix99.titaniumutilities.common.items;
+package jmoreno2212.titaniumutilities.common.items;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package fieryphoenix99.titaniumutilities.core.init;
+package jmoreno2212.titaniumutilities.core.init;
 
-import fieryphoenix99.titaniumutilities.TitaniumUtilities;
+import jmoreno2212.titaniumutilities.TitaniumUtilities;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.OreBlock;

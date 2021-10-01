@@ -1,8 +1,8 @@
-package fieryphoenix99.titaniumutilities.core.enums;
+package jmoreno2212.titaniumutilities.core.enums;
 
 import java.util.function.Supplier;
 
-import fieryphoenix99.titaniumutilities.core.init.ItemInit;
+import jmoreno2212.titaniumutilities.core.init.ItemInit;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.IArmorMaterial;
 import net.minecraft.item.crafting.Ingredient;

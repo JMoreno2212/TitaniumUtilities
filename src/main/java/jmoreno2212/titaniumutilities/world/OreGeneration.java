@@ -1,6 +1,6 @@
-package fieryphoenix99.titaniumutilities.world;
+package jmoreno2212.titaniumutilities.world;
 
-import fieryphoenix99.titaniumutilities.core.init.BlockInit;
+import jmoreno2212.titaniumutilities.core.init.BlockInit;
 import net.minecraft.block.BlockState;
 import net.minecraft.world.biome.Biome;
 import net.minecraft.world.gen.GenerationStage;

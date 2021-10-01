@@ -1,11 +1,11 @@
-package fieryphoenix99.titaniumutilities;
+package jmoreno2212.titaniumutilities;
 
+import jmoreno2212.titaniumutilities.core.init.BlockInit;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import fieryphoenix99.titaniumutilities.core.init.BlockInit;
-import fieryphoenix99.titaniumutilities.core.init.ItemInit;
-import fieryphoenix99.titaniumutilities.world.OreGeneration;
+import jmoreno2212.titaniumutilities.core.init.ItemInit;
+import jmoreno2212.titaniumutilities.world.OreGeneration;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
@@ -14,6 +14,8 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+
+import javax.annotation.Nonnull;
 
 @Mod(TitaniumUtilities.MOD_ID)
 public class TitaniumUtilities {
@@ -42,7 +44,7 @@ public class TitaniumUtilities {
 			super(label);
 		}
 
-		@Override
+		@Override @Nonnull
 		public ItemStack makeIcon() {
 			return ItemInit.TITANIUM_INGOT.get().getDefaultInstance();
 		}

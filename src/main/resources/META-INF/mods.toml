@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="All rights reserved"
+license="MIT License"
 issueTrackerURL="https://github.com/JMoreno2212/TitaniumUtilities/issues"
 [[mods]]
 modId="titanutil"
