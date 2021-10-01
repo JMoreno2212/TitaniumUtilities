@@ -6,4 +6,5 @@
 !/README.md
 !build.gradle
 !/gradle.properties
-!/setup.bat
+!LICENSE.txt
+setup.bat
